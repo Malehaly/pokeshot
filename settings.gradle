@@ -1,0 +1,1 @@
+include 'android', 'core', ':BaseGameUtils', ':cheetah-mobile-3.4.7'
